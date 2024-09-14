@@ -13,7 +13,6 @@ It allows you to obfuscate your script with more than 10 layers, while keeping i
 very compact (one file) and executable on any os/python version.
 <br><br><br>
 </strong>
-<img src="https://cdn.discordapp.com/attachments/939091668261556304/991416492665098261/Capture_decran_2022-06-28_205449.jpg" width="1202", height="642">
 </p>
 <br>
 
